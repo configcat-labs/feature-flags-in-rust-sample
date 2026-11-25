@@ -27,9 +27,9 @@ Instructions on how to build and run the application locally.
 
 3. Then, run the application with:
 
-  ```bash
-  cargo run
-  ```
+     ```bash
+     cargo run
+     ```
 
 ## Learn more
 
